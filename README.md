@@ -1,6 +1,6 @@
-# Prof--Andreia-repositorio-curso
+# Prof-Andréia-repositório-curso
 ## Curso outubro
-- Pensamento computacional2023
+- Pensamento computacional 2023
 - linguagens 
 - HTML
 - CSS
