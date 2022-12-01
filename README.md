@@ -1,4 +1,4 @@
-# Prof--Andreia1-repositoriocurso
+# Prof--Andreia-repositorio-curso
 ## Curso outubro
 - Pensamento computacional2023
 - linguagens 
