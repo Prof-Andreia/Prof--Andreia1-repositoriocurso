@@ -1,7 +1,7 @@
 # Prof-Andréia-repositório-curso
 ## Curso outubro
 - Pensamento computacional 2023
-- linguagens 
+- Linguagens utilizadas
 - HTML
 - CSS
 ## Softwares
